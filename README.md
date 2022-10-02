@@ -3,9 +3,7 @@
 <p align="center">Soy TSU en informática y estoy culminando la carrera de Ingeniería en Software. Actualmente estoy practicando JavaScript para empezar a trabajar.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
 
 <h3 align= "center">Idiomas y Herramientas:</h3>
 
