@@ -1,4 +1,4 @@
-<h3 align="left">Hola, mi nombre el Alejandro Diaz 👋</h3>
+<h1 align="left">Hola! Mi nombre es Alejandro Diaz 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
