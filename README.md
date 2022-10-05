@@ -7,7 +7,7 @@
   <h2>Tools: </h2>
   <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 <div style="display: flex">
@@ -19,12 +19,15 @@
 
 <div style="display: flex">
   <h2>BackEnd: </h2>
+  <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 <div style="display: flex">
   <h2>DataBase: </h2>
+  <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 <div style="display: flex">
   <h2>UI/UX: </h2>
+  <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
