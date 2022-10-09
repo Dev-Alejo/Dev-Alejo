@@ -1,4 +1,4 @@
-<h1 align="left">Hola! Mi nombre es Alejandro Diaz 👋</h1>
+# Hola! Mi nombre es Alejandro Diaz 👋 <img align="right" heigth="100" width="100" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
