@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Alejandro Diaz 👋 <img align="right" heigth="60" width="60" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
+# Hola! Mi nombre es Alejandro Diaz 👋 <img align="right" heigth="70" width="70" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
