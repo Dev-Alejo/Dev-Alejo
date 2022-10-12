@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Alejo&show_icons=true&theme=codeSTACKr)
 
-## UI/UX y Tools: &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &emsp; <img heigth="20" width="30" src="https://i.postimg.cc/SNC7CYCJ/github.png"/> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+## UI/UX y Tools: &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &emsp; <img heigth="20" width="30" src="https://i.postimg.cc/SNC7CYCJ/github.png"/> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &emsp; <img heigth="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" /> 
 
 ## FrontEnd: &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &emsp; <img heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
