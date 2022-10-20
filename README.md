@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Alejandro Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""> <img align="right" heigth="100" width="100" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
+# Hola! Mi nombre es Alejandro Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""> <img align="right" heigth="90" width="90" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
