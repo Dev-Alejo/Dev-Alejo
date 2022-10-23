@@ -7,7 +7,7 @@
   <a id="Gmail" href="mailto:alejandrojdb42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a id="Stack_Overflow" href="">
+  <a id="Stack_Overflow" href="https://es.stackoverflow.com/users/308307/dev-alejo">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   <a id="LinkedIn" href="https://www.linkedin.com/in/alejandro-diaz-444746252/">
