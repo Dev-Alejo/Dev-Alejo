@@ -1,11 +1,8 @@
 # Hola! Mi nombre es Alejandro Diaz  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""> <img align="right" heigth="100" width="100" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/mailo.jpeg" />
 
 <div>
-  <a id="Instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ale.jdb/">
+  <a id="Instagram" href="https://www.instagram.com/ale.jdb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a id="Gmail" href="mailto:alejandrojdb42@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a id="Stack_Overflow" href="https://es.stackoverflow.com/users/308307/dev-alejo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
