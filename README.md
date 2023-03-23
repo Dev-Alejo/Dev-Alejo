@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
   <a id="Stack_Overflow" href="https://es.stackoverflow.com/users/308307/dev-alejo" target="_blank" rel="noopener noreferrer">
-    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
+    <img height="20em" width="150em" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
   </a>
-  <a id="LinkedIn" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  <a id="Upwork" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
+    <img height="20em" width="75em" border-radius="50%" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
 </div>
 
