@@ -5,11 +5,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
   <a id="Stack_Overflow" href="https://es.stackoverflow.com/users/308307/dev-alejo" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
   </a>
-<!--   <a id="LinkedIn" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> -->
+  <a id="LinkedIn" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
 </div>
 
 ### 📊 &nbsp;Estadicticas:
