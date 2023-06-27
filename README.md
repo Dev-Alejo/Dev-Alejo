@@ -28,3 +28,5 @@
 ### &nbsp;BackEnd: &emsp; <img heigth="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &emsp; <img heigth="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
 
 ### &nbsp;DataBase: &emsp; <img heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+![Snake animation](https://github.com/Dev-Alejo/Dev-Alejo/blob/main/github-contribution-grid-snake.svg)
