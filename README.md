@@ -29,4 +29,3 @@
 
 ### &nbsp;DataBase: &emsp; <img heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-![Snake animation](https://github.com/Dev-Alejo/Dev-Alejo/blob/main/github-contribution-grid-snake.svg)
