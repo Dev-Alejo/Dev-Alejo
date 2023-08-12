@@ -14,13 +14,12 @@
 
 <div>
   <p>
-    Como ingeniero informático especializado en desarrollo Back-end, mi principal responsabilidad es diseñar y desarrollar sistemas que operan en servidores y proporcionan servicios y datos a través de la red para ser consumidos por aplicaciones Front-end y usuarios finales.
+    Soy un ingeniero informático originario de Venezuela, Aunque mi enfoque principal es el desarrollo Back-end con tecnologías como Java o NodeJS, poseo conocimientos base de tecnologías Front-end como HTML, CSS y JavaScript. Además, llevo trabajado en la industria tecnológica desde 2021.
 
-Mis conocimientos técnicos incluyen lenguajes de programación como Java y NodeJS, gestión de bases de datos SQL y el desarrollo de APIs. También domino el uso de herramientas de control de versiones y la configuración y gestión de servidores web y bases de datos.
+Mis conocimientos técnicos incluyen, SCRUM, gestión de actividades, control de versiones, configuración y gestión de servidores web y bases de datos SQL y NoSQL, seguridad, desarrollo de APIs, Resolución de problemas y depuración.
 
-Aunque mi enfoque principal es el desarrollo Back-end, poseo un sólido conocimiento de las tecnologías de desarrollo Front-end como HTML, CSS y JavaScript. Colaborando con el equipo de Front-end para garantizar una integración perfecta entre las capas cliente-servidor del sistema. 
-
-Además de ofrecer servicio básico a equipos de cómputo, también resuelvo problemas de hardware y software, instalando y configurando sistemas operativos y aplicaciones, y realizando mantenimiento preventivo y correctivo.
+ - Logros obtenidos:
+ + SEReports - Automatización de procesos llevando a una mejora significativa en la eficiencia y productividad de la empresa.
   </p>
 </div>
 
