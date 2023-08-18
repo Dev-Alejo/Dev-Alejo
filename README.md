@@ -1,5 +1,4 @@
-![https://github.com/Dev-Alejo](https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Banner%20Dev-Alejo.webp)
-# Hi there! I'm Alejandro Diaz  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""> <img align="right" heigth="100" width="100" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Mailo.webp" />
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""> <img align="left" heigth="95" width="95" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Mailo.webp" />
 
 <div>
   <a id="linkedin" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
@@ -10,7 +9,7 @@
   </a>
 </div>
 
-### 😁 About me
+</br>
 
 <div>
   <p>
@@ -23,10 +22,14 @@ Mis conocimientos técnicos incluyen, SCRUM, gestión de actividades, control de
   </p>
 </div>
 
-### 🚀 My software development tools and skills
+### 💼 My technical skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash,git,github,html,css,bootstrap,js,nodejs,express,java,spring,maven,gradle,hibernate,mysql,postgres,mongodb&theme=dark" />
   </a>
 </p>
+
+![https://github.com/Dev-Alejo](https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Banner%20Dev-Alejo.webp)
+
+### 😁 About me
