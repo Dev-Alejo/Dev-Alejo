@@ -37,10 +37,10 @@
 </div>
 
 <h2>💼 My technical skills</h2>
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash,git,github,html,css,bootstrap,js,nodejs,express,java,spring,maven,gradle,hibernate,mysql,postgres,mongodb&theme=dark&perline=5" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash,git,github,html,css,bootstrap,js,nodejs,express,java,spring,maven,gradle,hibernate,mysql,postgres,mongodb&theme=dark&perline=12" />
     </a>
   </p>
 
-
+<h2>💻 Personal projects</h2>
