@@ -30,6 +30,4 @@ Mis conocimientos técnicos incluyen, SCRUM, gestión de actividades, control de
   </a>
 </p>
 
-![https://github.com/Dev-Alejo](https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Banner%20Dev-Alejo.webp)
 
-### 😁 About me
