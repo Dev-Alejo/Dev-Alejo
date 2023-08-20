@@ -23,15 +23,15 @@
 
 <div style="text-align: justify;">
   <p>
-  Soy un ingeniero informático originario de Venezuela. Aunque mi enfoque principal es el desarrollo Back-end con tecnologías como Java o NodeJS, poseo conocimientos base de tecnologías Front-end como HTML, CSS y JavaScript. Además, llevo trabajando en la industria tecnológica desde 2021.
+  I am a Software Engineer originally from Venezuela. Although my main focus is Back-end development with technologies such as Java or NodeJS, I have basic knowledge of Front-end technologies such as HTML, CSS and JavaScript. In addition, I have been working in the technology industry since 2021.
 
-  Mis conocimientos técnicos incluyen SCRUM, gestión de actividades, control de versiones, configuración y gestión de servidores web y bases de datos SQL y NoSQL, seguridad, desarrollo de APIs, resolución de problemas y depuración.
+My technical skills include SCRUM, activity management, version control, configuration and management of web servers and SQL and NoSQL databases, security, API development, troubleshooting and debugging.
   </p>
   
   <details>
-    <summary><h3>🏆 Logros obtenidos</h3></summary>
+    <summary><h3>🏆 Achievements</h3></summary>
     <ul>
-      <li>SEReports - Automatización de procesos llevando a una mejora significativa en la eficiencia y productividad de la empresa.</li>
+      <li>Servieduca(AppReports) - Automation of processes leading to a significant improvement in the company's efficiency and productivity.</li>
     </ul>
   </details>
 </div>
@@ -39,7 +39,7 @@
 <h2>💼 My technical skills</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash,git,github,html,css,bootstrap,js,nodejs,express,java,spring,maven,gradle,hibernate,mysql,postgres,mongodb&theme=dark&perline=12" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash,git,github,html,css,bootstrap,js,nodejs,express,java,spring,maven,gradle,hibernate,mysql,postgres,mongodb&theme=dark&perline=14" />
     </a>
   </p>
 
