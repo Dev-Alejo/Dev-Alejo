@@ -14,7 +14,7 @@
   <a id="Gmail" href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a id="Platzi" href="">
+  <a id="Platzi" href="https://platzi.com/p/Dev-Alejo/">
     <img src="https://img.shields.io/badge/Platzi-00C300?style=for-the-badge&logo=platzi&logoColor=white"/>
   </a>
 </div>
