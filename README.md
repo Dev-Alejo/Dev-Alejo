@@ -11,7 +11,7 @@
   <a id="Upwork" href="https://www.upwork.com/freelancers/~01e4b6d2ea837099b7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
-  <a id="Gmail" href="">
+  <a id="Gmail" href="mailto:contact.alejodb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a id="Platzi" href="https://platzi.com/p/Dev-Alejo/">
