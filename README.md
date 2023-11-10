@@ -8,9 +8,6 @@
   <a id="linkedin" href="https://www.linkedin.com/in/alejandro-diaz-444746252/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a id="Upwork" href="https://www.upwork.com/freelancers/~01e4b6d2ea837099b7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
-  </a>
   <a id="Platzi" href="https://platzi.com/p/Dev-Alejo/">
     <img src="https://img.shields.io/badge/Platzi-00C300?style=for-the-badge&logo=platzi&logoColor=white"/>
   </a>
