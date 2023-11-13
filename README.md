@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/Platzi-00C300?style=for-the-badge&logo=platzi&logoColor=white"/>
   </a>
 </div>
-
   <br>
-
 <div style="text-align: justify;">
   <p>
   I am a Software Engineer originally from Venezuela. Although my main focus is Back-end development with technologies such as Java or NodeJS, I have basic knowledge of Front-end technologies such as HTML, CSS and JavaScript. In addition, I have been working in the technology industry since 2021.
