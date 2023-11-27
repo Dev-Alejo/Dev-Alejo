@@ -31,7 +31,7 @@ My technical skills include SCRUM, activity management, version control, configu
   </details>
 </div>
 
-<h2>Lenguajes:</h2>
+<h2>⛏️ Lenguajes:</h2>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,7 +41,7 @@ My technical skills include SCRUM, activity management, version control, configu
   <img src="https://img.shields.io/badge/SQL-004F9F?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
 </div>
 
-<h2>Tecnologias:</h2>
+<h2>🛠️ Tecnologias:</h2>
 
 <div>  
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -64,7 +64,7 @@ My technical skills include SCRUM, activity management, version control, configu
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<h2>Herramientas:</h2>
+<h2>🧰 Herramientas:</h2>
 
 <div>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
