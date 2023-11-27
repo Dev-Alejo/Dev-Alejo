@@ -1,8 +1,6 @@
 <h1>
   <img align="left" style="height: 150px; width: 150px; border-radius: 30%;" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Photo.webp" />
-  ¡Hola! Mi nombre es Alejandro Diaz
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+  ¡Hola! Mi nombre es Alejandro Diaz 👋🏻</h1>
 
 <h3>Soporte Técnico y Desarrollador Backend</h3>
 
