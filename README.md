@@ -1,5 +1,5 @@
 <h1>
-  <img align="left" style="height: 150px; width: 150px; border-radius: 30%;" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Photo.webp" />
+  <img align="left" style="height:150px; width:150px;" src="https://github.com/Dev-Alejo/Dev-Alejo/blob/main/Photo.webp"/>
   ¡Hola! Mi nombre es Alejandro Diaz 👋🏻</h1>
 
 <h3>Soporte Técnico y Desarrollador Backend</h3>
@@ -15,19 +15,18 @@
 
   <br>
   
-  <p>
-  I am a Software Engineer originally from Venezuela. Although my main focus is Back-end development with technologies such as Java or NodeJS, I have basic knowledge of Front-end technologies such as HTML, CSS and JavaScript. In addition, I have been working in the technology industry since 2021.
+<p>
+I am a Software Engineer originally from Venezuela. Although my main focus is Back-end development with technologies such as Java or NodeJS, I have basic knowledge of Front-end technologies such as HTML, CSS and JavaScript. In addition, I have been working in the technology industry since 2021.
 
 My technical skills include SCRUM, activity management, version control, configuration and management of web servers and SQL and NoSQL databases, security, API development, troubleshooting and debugging.
-  </p>
+</p>
   
-  <details>
-    <summary><h3>🏆 Achievements</h3></summary>
-    <ul>
-      <li>Servieduca(AppReports) - Automation of processes leading to a significant improvement in the company's efficiency and productivity.</li>
-    </ul>
-  </details>
-</div>
+<details>
+  <summary><h3>🏆 Achievements</h3></summary>
+  <ul>
+    <li>Servieduca(AppReports) - Automation of processes leading to a significant improvement in the company's efficiency and productivity.</li>
+  </ul>
+</details>
 
 <h2>⛏️ Lenguajes:</h2>
 
@@ -72,4 +71,67 @@ My technical skills include SCRUM, activity management, version control, configu
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"/>
 </div>
 
-<h2>💻 Personal projects</h2>
+<h2>💻 Mi portafolio de proyectos:</h2>
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
+        <p align="center">anónimo</p>
+      </a>
+    </td>
+  </tr>
+</table>
