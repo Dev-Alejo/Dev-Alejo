@@ -76,9 +76,9 @@ My technical skills include SCRUM, activity management, version control, configu
 <table style="width:100%">
   <tr>
     <td>
-      <a href="https://www.bing.com/images/search?view=detailV2&ccid=ywlP4yw1&id=AD0B720D459EA0A1D7F64F6084B874A5B8871957&thid=OIP.ywlP4yw1NCpdGu09pWQgiAHaEK&mediaurl=https%3a%2f%2fcdn.vox-cdn.com%2fthumbor%2f2R2bpBopHntKQJcJZ3Rk_8eBhAQ%3d%2f0x33%3a640x393%2f1600x900%2fcdn.vox-cdn.com%2fimported_assets%2f1035935%2fAnonymous-Logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb094fe32c35342a5d1aed3da5642088%3frik%3dVxmHuKV0uIRgTw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1600&q=imagen+anonimous&simid=608054059873614705&FORM=IRPRST&ck=2ADFC3C5756F144D9C3C4E48E9000429&selectedIndex=18&ajaxhist=0&ajaxserp=0">
+      <a href="https://dev-alejo.github.io/Adopets/">
         <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
-        <p align="center">anónimo</p>
+        <p align="center">Adopets</p>
       </a>
     </td>
     <td>
