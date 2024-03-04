@@ -82,9 +82,9 @@ My technical skills include SCRUM, activity management, version control, configu
       </a>
     </td>
     <td>
-      <a href="">
+      <a href="https://dev-alejo.github.io/Comida/">
         <img src="https://th.bing.com/th/id/R.cb094fe32c35342a5d1aed3da5642088?rik=VxmHuKV0uIRgTw&pid=ImgRaw&r=0">
-        <p align="center">anónimo</p>
+        <p align="center">comida</p>
       </a>
     </td>
     <td>
